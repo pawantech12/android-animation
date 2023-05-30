@@ -18,7 +18,7 @@
 
 ### Desktop Preview
 
-<video src="./android-animation.mp4" />
+https://github.com/pawantech12/android-animation/assets/118673866/7db3a357-6e3d-4996-861b-c5e384dd3448
 
 ### Prerequisites
 
