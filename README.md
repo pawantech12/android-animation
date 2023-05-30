@@ -18,7 +18,7 @@
 
 ### Desktop Preview
 
-![Android Animation Desktop Demo](./android-animation.mp4)
+<video src="./android-animation.mp4" />
 
 ### Prerequisites
 
